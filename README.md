@@ -6,12 +6,6 @@ In addition to my interests in the art of the code-monkey, I greatly enjoy desig
 Currently I am the electrical team lead at [AquaPack Robotics](aquapackrobotics.org), a student organization at North Carolina State University.
 There, I've been focused on high-level system design for autonomous underwater vehicles, in particular the SeaWolf VIII and SeaWolf XI systems.
 
----
-
->[!note]
->I'm currently looking for career opportunities related to robotics, firmware design/programming, and/or systems programming.
->You can contact me at my email: work.wkelso@gmail.com
-
 <!--
 **wpkelso/wpkelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
