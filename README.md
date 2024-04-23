@@ -4,7 +4,7 @@ I'm a computer engineering student with a heavy focus in embedded systems develo
 In addition to my interests in the art of the code-monkey, I greatly enjoy designing things that force me to rethink how I approach a situation, whether that be an icon, a t-shirt, or a robot.
 
 Currently I am the electrical team lead at [AquaPack Robotics](https://aquapackrobotics.org), a student organization at North Carolina State University.
-There, I've been focused on high-level system design for autonomous underwater vehicles, in particular the SeaWolf VIII and SeaWolf XI systems.
+There, I've been focused on high-level system design for autonomous underwater vehicles, in particular the SeaWolf VIII and SeaWolf IX systems.
 
 <!--
 **wpkelso/wpkelso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
