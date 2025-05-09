@@ -1,4 +1,4 @@
-Hi, I&rsquo;m William (_he/him/they_)
+Hi, I&rsquo;m William (_he/him_)
 
 I enjoy software programming, UI/UX design, and making the world easier to live in. I also contribute to elementary OS.
 
