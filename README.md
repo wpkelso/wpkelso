@@ -8,6 +8,6 @@ I'm currently exploring and learning about:
 - Iconography
 
 ## Current Projects
-- [expandtheon](https://github.com/wpkelso/expandtheon), a project to extend the elementary OS icon set to cover common third-party applications
+- [expandtheon](https://github.com/ellie-commons/expandtheon), a project to extend the elementary OS icon set to cover common third-party applications
 - [slate](https://github.com/wpkelso/slate), a "dumb as rocks" text editor for elementary OS
 - [lc3sim](https://github.com/wpkelso/lc3sim), a simulator core for the LC3 micro-architecture, written in Rust
