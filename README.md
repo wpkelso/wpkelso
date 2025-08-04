@@ -1,4 +1,4 @@
-Hi, I&rsquo;m William (_he/him/they_)
+Hi, I&rsquo;m William (_he/him_)
 
 Programmer, mostly self-taught designer, weasel obsessive
 
