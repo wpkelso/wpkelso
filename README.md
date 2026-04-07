@@ -1,6 +1,5 @@
-Hi, I&rsquo;m William (_he/him_)
-
-Programmer, mostly self-taught designer, weasel obsessive
+Hi, I&rsquo;m William (_he/him/they_)
+Braista by trade, computer engineer by training, mostly self-taught designer, and completely normal about otters.
 
 ## Current Projects
 - [expandtheon](https://github.com/ellie-commons/expandtheon), a project to extend the elementary OS icon set to cover common third-party applications
